@@ -1,7 +1,7 @@
 {
   "title": "Homev",
   "titleTemplate": "| Bluise",
-  "welcomeText": "#Hi!",
+  "welcomeText": "Hi!",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
