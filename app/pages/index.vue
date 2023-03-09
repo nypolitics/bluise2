@@ -7,7 +7,7 @@
         <div class="mb-12 xl:mb-0">
           <h4 v-if="isSignedUp">Thank you - we'll be in touch shortly.</h4>
 
-          
+
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
